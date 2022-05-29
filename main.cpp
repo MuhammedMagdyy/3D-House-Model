@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// for translation
 double translation_x = 0.0, translation_y = 0.0, translation_z = 0.0;
 
 double rotation_x = 0.0, rotation_y = 0.0, rotation_z = 0.0;
