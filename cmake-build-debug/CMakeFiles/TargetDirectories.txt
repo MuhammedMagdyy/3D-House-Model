@@ -1,0 +1,3 @@
+C:/Users/Moham/Desktop/3D-House-Model/cmake-build-debug/CMakeFiles/3D_House_Model.dir
+C:/Users/Moham/Desktop/3D-House-Model/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Moham/Desktop/3D-House-Model/cmake-build-debug/CMakeFiles/rebuild_cache.dir
