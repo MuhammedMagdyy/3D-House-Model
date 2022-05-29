@@ -4,11 +4,11 @@
 #include <GL/glut.h>
 
 using namespace std;
-
+//
 double translation_x = 0.0, translation_y = 0.0, translation_z = 0.0;
-
+//
 double rotation_x = 0.0, rotation_y = 0.0, rotation_z = 0.0;
-
+//
 double scale_x = 1.0, scale_y = 1.0, scale_z = 1.0;
 
 void init() {
