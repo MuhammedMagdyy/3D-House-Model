@@ -4,7 +4,7 @@ This is a 3D Model for the practical exam of computer graphics course.
 
 ## Requirments and How to Run
 You need to install OpenGL and here are links that maybe help:
-- [code-blocks](https://www.youtube.com/watch?v=Pco3EysB5zU) | [Visual Studio](https://www.youtube.com/watch?v=HzFatL3WT6g)
+- [Code-Blocks](https://www.youtube.com/watch?v=Pco3EysB5zU) | [Visual Studio](https://www.youtube.com/watch?v=HzFatL3WT6g)
 
 Also you can clone the project using this command on `CMD`
 ```
